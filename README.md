@@ -22,13 +22,29 @@ The current supported tags are:<br/>
 &lt;noembed&gt;<br/>
 &lt;plaintext&gt;<br/>
 &lt;spacer&gt;<br/>
+&lt;bgsound&gt;<br/>
 <br/>
 The current supported attributes are:<br/>
 align<br/>
+alink<br/>
 border<br/>
 bgcolor<br/>
+background<br/>
+clear<br/>
+link<br/>
+width (hr, pre, td, th)<br/>
 onmousewheel<br/>
 <br/>
 There are plans to support:<br/>
 &lt;marquee&gt;<br/>
-&lt;bgsound&gt;<br/>
+compact<br/>
+hspace<br/>
+noshade<br/>
+nowrap<br/>
+size<br/>
+start<br/>
+text<br/>
+type<br/>
+value (li)<br/>
+vlink<br/>
+vspace<br/>
