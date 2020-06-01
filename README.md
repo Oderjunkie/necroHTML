@@ -1,6 +1,7 @@
 # necroHTML V1.1
 necroHTML.js is a javascript file that was made to simulate HTML4 and older.
 To use necroHTML.js, Simply download it, then put `<script src='path/over/to/necro110min.js' defer></script>` in your `<head>` tag.<br/>
+<br/>
 The current supported tags are:<br/>
 &lt;acronym&gt;<br/>
 &lt;applet&gt;<br/>
@@ -30,3 +31,4 @@ onmousewheel<br/>
 <br/>
 There are plans to support:<br/>
 &lt;marquee&gt;<br/>
+&lt;bgsound&gt;<br/>
